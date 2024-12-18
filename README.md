@@ -67,6 +67,8 @@ Microsoft uses for the currency converter feature (e.g., in the retail version o
 for your use. The mock data will be clearly identifiable as it references planets instead of countries,
 and remains static regardless of selected inputs.
 
+## Bold
+
 ## Reporting Security Issues
 Please refer to [SECURITY.md](./SECURITY.md).
 
